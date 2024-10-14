@@ -1,0 +1,16 @@
+version: '3'
+
+services:
+  php-apache:
+    image: barbearia
+    container_name: barbearia
+    ports:
+      - "8080:80"  
+    volumes:
+      - ../../:/var/www/html  
+    networks:
+      - mysql-network         
+
+networks:
+  mysql-network:
+    external: true           

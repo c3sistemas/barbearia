@@ -1,0 +1,29 @@
+# Use a imagem base do PHP com Apache
+FROM php:8.0.30-apache
+
+# Atualize os pacotes e instale as dependências necessárias
+RUN apt-get update && apt-get install -y \
+    libzip-dev zip unzip
+
+# Instala as extensões PDO e PDO_MYSQL e ative-as
+RUN docker-php-ext-install pdo pdo_mysql
+
+# Habilita o mod_rewrite do Apache
+RUN a2enmod rewrite
+
+# Copie o código do seu projeto para o contêiner
+COPY . /var/www/html/
+
+# Defina o diretório de trabalho
+WORKDIR /var/www/html
+
+# Defina as permissões apropriadas para as pastas do projeto
+RUN chown -R www-data:www-data /var/www/html \
+    && chmod -R 755 /var/www/html
+
+# Reinicie o Apache para garantir que as mudanças entrem em vigor
+RUN service apache2 restart
+
+# Exponha a porta 80
+EXPOSE 80
+

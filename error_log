@@ -1,0 +1,119 @@
+[22-Sep-2024 22:06:32 America/Sao_Paulo] PHP Warning:  Undefined variable $pdo in /home3/googab81/barbearia.rigsite.com.br/public/sistema/conexao.php on line 31
+[22-Sep-2024 22:06:32 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/googab81/barbearia.rigsite.com.br/public/sistema/conexao.php:31
+Stack trace:
+#0 /home3/googab81/barbearia.rigsite.com.br/public/cabecalho.php(1): require_once()
+#1 /home3/googab81/barbearia.rigsite.com.br/public/index.php(1): require_once('/home3/googab81...')
+#2 {main}
+  thrown in /home3/googab81/barbearia.rigsite.com.br/public/sistema/conexao.php on line 31
+[22-Sep-2024 22:07:14 America/Sao_Paulo] PHP Warning:  Undefined variable $pdo in /home3/googab81/barbearia.rigsite.com.br/public/sistema/conexao.php on line 31
+[22-Sep-2024 22:07:14 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/googab81/barbearia.rigsite.com.br/public/sistema/conexao.php:31
+Stack trace:
+#0 /home3/googab81/barbearia.rigsite.com.br/public/cabecalho.php(1): require_once()
+#1 /home3/googab81/barbearia.rigsite.com.br/public/index.php(1): require_once('/home3/googab81...')
+#2 {main}
+  thrown in /home3/googab81/barbearia.rigsite.com.br/public/sistema/conexao.php on line 31
+[22-Sep-2024 22:07:14 America/Sao_Paulo] PHP Warning:  Undefined variable $pdo in /home3/googab81/barbearia.rigsite.com.br/public/sistema/conexao.php on line 31
+[22-Sep-2024 22:07:14 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/googab81/barbearia.rigsite.com.br/public/sistema/conexao.php:31
+Stack trace:
+#0 /home3/googab81/barbearia.rigsite.com.br/public/cabecalho.php(1): require_once()
+#1 /home3/googab81/barbearia.rigsite.com.br/public/index.php(1): require_once('/home3/googab81...')
+#2 {main}
+  thrown in /home3/googab81/barbearia.rigsite.com.br/public/sistema/conexao.php on line 31
+[22-Sep-2024 22:07:14 America/Sao_Paulo] PHP Warning:  Undefined variable $pdo in /home3/googab81/barbearia.rigsite.com.br/public/sistema/conexao.php on line 31
+[22-Sep-2024 22:07:14 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/googab81/barbearia.rigsite.com.br/public/sistema/conexao.php:31
+Stack trace:
+#0 /home3/googab81/barbearia.rigsite.com.br/public/cabecalho.php(1): require_once()
+#1 /home3/googab81/barbearia.rigsite.com.br/public/index.php(1): require_once('/home3/googab81...')
+#2 {main}
+  thrown in /home3/googab81/barbearia.rigsite.com.br/public/sistema/conexao.php on line 31
+[22-Sep-2024 22:07:15 America/Sao_Paulo] PHP Warning:  Undefined variable $pdo in /home3/googab81/barbearia.rigsite.com.br/public/sistema/conexao.php on line 31
+[22-Sep-2024 22:07:15 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/googab81/barbearia.rigsite.com.br/public/sistema/conexao.php:31
+Stack trace:
+#0 /home3/googab81/barbearia.rigsite.com.br/public/cabecalho.php(1): require_once()
+#1 /home3/googab81/barbearia.rigsite.com.br/public/index.php(1): require_once('/home3/googab81...')
+#2 {main}
+  thrown in /home3/googab81/barbearia.rigsite.com.br/public/sistema/conexao.php on line 31
+[22-Sep-2024 22:12:01 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[22-Sep-2024 22:12:01 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[22-Sep-2024 22:12:01 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[22-Sep-2024 22:12:01 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[22-Sep-2024 22:12:01 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[22-Sep-2024 22:12:01 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[22-Sep-2024 22:12:01 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[22-Sep-2024 22:12:02 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[22-Sep-2024 22:12:02 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[22-Sep-2024 22:12:02 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[22-Sep-2024 22:12:02 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[22-Sep-2024 22:12:02 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[22-Sep-2024 22:12:02 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[22-Sep-2024 22:12:02 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[22-Sep-2024 22:24:59 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[22-Sep-2024 22:24:59 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[22-Sep-2024 22:24:59 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[22-Sep-2024 22:24:59 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[22-Sep-2024 22:24:59 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[22-Sep-2024 22:24:59 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[22-Sep-2024 22:24:59 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[22-Sep-2024 22:25:00 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[22-Sep-2024 22:25:00 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[22-Sep-2024 22:25:00 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[22-Sep-2024 22:25:00 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[22-Sep-2024 22:25:00 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[22-Sep-2024 22:25:00 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[22-Sep-2024 22:25:00 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[22-Sep-2024 22:45:50 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[22-Sep-2024 22:45:50 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[22-Sep-2024 22:45:50 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[22-Sep-2024 22:45:50 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[22-Sep-2024 22:45:50 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[22-Sep-2024 22:45:50 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[22-Sep-2024 22:45:50 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[22-Sep-2024 22:45:50 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[22-Sep-2024 22:45:50 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[22-Sep-2024 22:45:50 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[22-Sep-2024 22:45:50 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[22-Sep-2024 22:45:50 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[22-Sep-2024 22:45:50 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[22-Sep-2024 22:45:50 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[22-Sep-2024 23:12:19 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[22-Sep-2024 23:12:19 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[22-Sep-2024 23:12:19 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[22-Sep-2024 23:12:19 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[22-Sep-2024 23:12:19 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[22-Sep-2024 23:12:19 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[22-Sep-2024 23:12:19 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[22-Sep-2024 23:12:19 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[22-Sep-2024 23:12:19 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[22-Sep-2024 23:12:19 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[22-Sep-2024 23:12:19 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[22-Sep-2024 23:12:19 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[22-Sep-2024 23:12:19 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[22-Sep-2024 23:12:19 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[01-Oct-2024 00:29:52 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[01-Oct-2024 00:29:52 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[01-Oct-2024 00:29:52 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[01-Oct-2024 00:29:52 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[01-Oct-2024 00:29:52 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[01-Oct-2024 00:29:52 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[01-Oct-2024 00:29:52 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[01-Oct-2024 00:29:53 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[01-Oct-2024 00:29:53 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[01-Oct-2024 00:29:53 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[01-Oct-2024 00:29:53 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[01-Oct-2024 00:29:53 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[01-Oct-2024 00:29:53 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[01-Oct-2024 00:29:53 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[02-Oct-2024 17:52:36 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[02-Oct-2024 17:52:36 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[02-Oct-2024 17:52:36 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[02-Oct-2024 17:52:36 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[02-Oct-2024 17:52:36 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[02-Oct-2024 17:52:36 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[02-Oct-2024 17:52:36 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[02-Oct-2024 17:52:36 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[02-Oct-2024 17:52:36 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[02-Oct-2024 17:52:36 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[02-Oct-2024 17:52:36 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[02-Oct-2024 17:52:36 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[02-Oct-2024 17:52:36 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66
+[02-Oct-2024 17:52:36 America/Sao_Paulo] PHP Warning:  Undefined variable $descricao in /home3/googab81/barbearia.rigsite.com.br/public/servicos.php on line 66

@@ -1,0 +1,10 @@
+FROM php:8.1-cli
+
+# Copia o script PHP para o container (caminho relativo ao contexto de build)
+COPY ./infra/cron/checar_agendamentos.php /usr/src/app/checar_agendamentos.php
+
+# Defina o diretório de trabalho
+WORKDIR /usr/src/app
+
+# Comando para executar o script PHP
+CMD ["php", "checar_agendamentos.php"]

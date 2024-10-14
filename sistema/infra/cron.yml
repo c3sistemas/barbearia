@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  cron_service:
+    build:
+      context: .
+      dockerfile: images/Dockerfile.cron
+    volumes:
+      - ./cron:/usr/src/app
