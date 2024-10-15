@@ -2,12 +2,18 @@ version: '3'
 
 services:
   php-apache:
-    image: barbearia
-    container_name: barbearia
+    image: barbearia3
+    container_name: barbearia3
     ports:
       - "8080:80"  
     volumes:
       - ../../:/var/www/html  
+      - ./cron:/var/spool/cron/crontabs  # Mapeando o arquivo de crontab
+      - /etc/localtime:/etc/localtime:ro  # Para sincronizar o fuso horário
+      - /etc/timezone:/etc/timezone:ro
+
+
+    
     networks:
       - mysql-network         
 
