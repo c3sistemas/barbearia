@@ -15,20 +15,11 @@ RUN a2enmod rewrite
 # Copie o código do seu projeto para o contêiner
 COPY . /var/www/html/
 
-# Copie o arquivo de crontab do host para o contêiner
-COPY ./cron/my-cron-jobs /etc/cron.d/my-cron-jobs
-
-# Adicione permissões para o arquivo de cron
-RUN chmod 0644 /etc/cron.d/my-cron-jobs
-
 # Crie o log do cron se não existir
 RUN touch /var/log/cron_test.log
 
 # Crie o log do cron principal
 RUN touch /var/log/cron.log
-
-# Atualize o crontab com o novo arquivo
-RUN crontab /etc/cron.d/my-cron-jobs
 
 # Defina o diretório de trabalho
 WORKDIR /var/www/html

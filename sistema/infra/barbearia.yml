@@ -2,8 +2,8 @@ version: '3'
 
 services:
   php-apache:
-    image: barbearia3
-    container_name: barbearia3
+    image: barbearia
+    container_name: barbearia
     ports:
       - "8080:80"  
     volumes:
