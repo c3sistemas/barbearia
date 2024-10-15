@@ -1,12 +1,12 @@
 <?php 
 
-#$banco = 'googab81_barbearia';
-$banco = 'barbearia';
-#$usuario = 'googab81_barbearia';
+require_once(__DIR__ . '/vendor/autoload.php'); 
+$dotenv = Dotenv\Dotenv::createImmutable(__DIR__);
+$dotenv->load(); 
+
+$banco = $_ENV['DB_NAME'];
 $usuario = 'admin';
-#$senha = '7WY-TvwwhHLu';
 $senha = 'admin';
-#$servidor = 'localhost';
 $servidor = 'mysql';
 
 

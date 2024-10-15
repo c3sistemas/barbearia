@@ -1,11 +1,16 @@
 <?php
 require_once('/var/www/html/sistema/conexao.php');
 require_once('/var/www/html/sistema/painel/paginas/evolution/WhatsAppAPI.php');
+require_once('/var/www/html/sistema/vendor/autoload.php');
 
-file_put_contents('/var/log/checar_agendamentos.log', "Script Executado em: " . date('Y-m-d H:i:s') . "\n", FILE_APPEND);
+// Carregar variáveis de ambiente
+$dotenv = Dotenv\Dotenv::createImmutable('/var/www/html/sistema');
+$dotenv->load();
+
+file_put_contents('/var/log/checar_agendamentos.log', "Script Executado em: " . date('d-m-Y H:i:s') . "\n", FILE_APPEND);
 
 // Hora atual
-$hora_atual = date('Y-m-d H:i:s');
+$hora_atual = date('d-m-Y H:i:s');
 
 // SQL para buscar agendamentos que estão a menos de 1 hora de acontecer, juntando com a tabela clientes
 $sql = "SELECT ag.id, ag.cliente, ag.data, ag.hora, c.nome, c.telefone 
@@ -20,9 +25,9 @@ $result = $pdo->query($sql);
 if ($result->rowCount() > 0) {
     // Inicializar a classe com os parâmetros da API
     $whatsapp = new WhatsAppAPI(
-        'testeApi',  // nome da instancia
-        'https://evo.rigsaasatende.com.br',  // URL da API
-        'hkkgneylm94uvwtdkst2hj'  // Chave da API
+        $_ENV['NAME_INSTANCE'],   // nome da instancia
+        $_ENV['API_URL'],  // URL da API
+        $_ENV['API_KEY']   // Chave da API
     );
 
     // Função para extrair apenas os números de uma string de telefone e adicionar o código do país
